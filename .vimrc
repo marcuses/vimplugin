@@ -31,6 +31,9 @@ set smartindent
 set expandtab
 set softtabstop=4
 set shiftwidth=4
+" Set tab and space visible
+set list
+set listchars=tab:>-,trail:-
 
 "自动保存
 set autowrite
